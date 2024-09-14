@@ -5,7 +5,6 @@ Tech Enthusiastic, Studying Computer Science and Engineering, Aspiring Full Stac
 - 🌱 I’m currently learning about DSA, Software Development, Frameworks and Databases.
 - 💞️ I’m looking to collaborate on Machine learning projects and cloud computing projects
 - 📫 How to reach me varshaprakash357@gmail.com
-- 👨‍💻 All of my projects are available at github.com/varshasathyaprakash
-
+- 👨‍💻 All of my projects are available at https://github.com/varshasathyaprakash
 
 
